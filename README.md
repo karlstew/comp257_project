@@ -12,3 +12,7 @@
 * Working with aggregated data, only know information about geographic areas, not about individuals
 * Accuracy of matching booth level results to SA1 is questionable, (assume uniform distribution?)
 * Large amounts of data, may be hard to handle, will have to filter out large amounts of extraneous variables
+
+**Other Possibilities**
+* Rather then breaking down to SA1 level we could use electorate level, where there is only 150 or 151 depedning on year
+* Could look at changes over time, possibly using this to predict future results
